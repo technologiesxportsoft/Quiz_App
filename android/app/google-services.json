@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791519355182",
+    "project_id": "flutterquiz-d2db1",
+    "storage_bucket": "flutterquiz-d2db1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791519355182:android:a3ee689d769dc46a461abf",
+        "android_client_info": {
+          "package_name": "com.example.flashcards_quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4evQwMZBKFzuwNCfzmMm7osTvCzM79tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
